@@ -1,0 +1,45 @@
+.header {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 10rem;
+    height: 4rem;
+}
+
+.headerMenu {
+
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    color: white;
+
+}
+
+.headerMenu > li {
+
+    cursor: pointer;
+}
+
+.headerMenu > li:hover {
+    color: var(--blue);
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .header>:nth-child(2) {
+        position: fixed;
+        right: 2rem;
+        z-index: 99;
+    }
+
+    .headerMenu {
+        flex-direction: column;
+        background-color: var(--appColor);
+        padding: 2rem;
+    }
+}
