@@ -15,5 +15,7 @@ Cjvegym is a project simulating what can be a responsive website of a gym busine
 Cjvegym es un proyecto simulando lo que puede ser una página web responsive de un negocio de gimnasio, se muestra la información básica de los negocios, de los programas que tienen, testimonios, como comunicarse y los posibles planes para escoger. La aplicación tiene diferentes tipos de animaciones utilizando Motion y number counter, utilice Email Js para recibir correos electrónicos en el Newletter, hooks como useState y useRef, en cuanto el estilo utilice CSS en su totalidad.
 
 ![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/5b8fcc54-42b9-4a84-b58e-adb789c8bab8)
+![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/41c00618-8800-4e62-9a70-8654e997a99b)
+
 
 Web Site: https://cjvegym.pages.dev
