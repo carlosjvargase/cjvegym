@@ -16,6 +16,7 @@ Cjvegym es un proyecto simulando lo que puede ser una página web responsive de 
 
 ![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/5b8fcc54-42b9-4a84-b58e-adb789c8bab8)
 ![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/41c00618-8800-4e62-9a70-8654e997a99b)
+![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/6df32914-9bda-4277-bd69-2455cb67eea2)
 
 
 Web Site: https://cjvegym.pages.dev
