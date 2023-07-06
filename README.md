@@ -1,5 +1,5 @@
 CJVEGYM
-Web Site: https://cjvegym.pages.dev
+### Web Site: https://cjvegym.pages.dev
 
 ![cjvegym1](https://user-images.githubusercontent.com/104727028/193354756-019ac438-0666-461d-a068-189e1f45ea66.PNG)
 
@@ -20,4 +20,4 @@ Cjvegym es un proyecto simulando lo que puede ser una página web responsive de 
 ![image](https://github.com/carlosjvargase/cjvegym/assets/104727028/6df32914-9bda-4277-bd69-2455cb67eea2)
 
 
-Web Site: https://cjvegym.pages.dev
+### Web Site: https://cjvegym.pages.dev
